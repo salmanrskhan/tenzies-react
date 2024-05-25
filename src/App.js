@@ -1,4 +1,3 @@
-import './App.css';
 import Die from './components/Die';
 import React, { useEffect, useState } from 'react';
 import { nanoid } from 'nanoid';
